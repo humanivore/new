@@ -1,1 +1,4 @@
+1.0 - Created version file.
+1.1 - Added readme.md
 1.1.2 - Updated readme.md
+1.1.1 - Added new feature.
